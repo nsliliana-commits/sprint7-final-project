@@ -1,3 +1,8 @@
+# 📊 Análisis ConnectaTel - Sprint 7
+
+Este proyecto corresponde al **Sprint 7 del programa de análisis de datos**, donde se realiza la **limpieza, diagnóstico y segmentación** del dataset de clientes de ConnectaTel.  
+El objetivo principal es **identificar problemas de calidad de datos**, analizar **patrones de uso** y proponer **recomendaciones de negocio** basadas en los segmentos detectados.
+
 # Proyecto de Limpieza y Segmentación de Datos - ConnectaTel
 
 ## 📌 Descripción
@@ -50,4 +55,7 @@ Este proyecto tiene como objetivo **diagnosticar, limpiar y analizar** un datase
 - `data/` → dataset original y limpio.
 - `notebooks/` → notebook principal con el análisis.
 - `README.md` → documentación del proyecto.
+## 👩‍💻 Autoría
+Proyecto realizado por **Liliana**  
+Sprint 7 - Data Analysis
 
